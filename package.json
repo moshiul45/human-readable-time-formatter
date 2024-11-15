@@ -1,0 +1,11 @@
+{
+  "name": "human-readable-time-formatter",
+  "version": "1.0.0",
+  "description": "Human-Readable Time Formatter is a lightweight and intuitive NPM package that converts timestamps and durations into easy-to-read, human-friendly formats. With this package, you can quickly display time information in ways like \"5 minutes ago,\" \"2 hours ago,\" or as exact durations such as \"01:30:00\" (for 1 hour, 30 minutes). It’s perfect for adding a clear, natural feel to dates and times in user interfaces, chat applications, logs, or any time-sensitive content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Moshiul Azam",
+  "license": "ISC"
+}
